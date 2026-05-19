@@ -1,6 +1,6 @@
 This assignment demonstrates a solid foundation in Python programming. It covers essential core concepts including:
 
-Data Types: Effective use of Strings, Integers, Floats, and Booleans.
+Data Types: Effective use of Strings, Integers, Floats, and Booleans.\n
 Conditional Logic: Implementation of if-else and elif statements to handle decision-making processes.
 Variable Management: Proper naming conventions and dynamic data handling.
 Basic Syntax: Writing clean, readable, and efficient Python code.
